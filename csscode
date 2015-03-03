@@ -1,0 +1,11 @@
+body {
+  tewt-align: center;
+  }
+  
+  h1{
+      color: #101010
+      text-transform: uppercase;
+  }
+  p {
+    color: #505050;
+}
